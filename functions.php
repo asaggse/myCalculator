@@ -21,3 +21,4 @@ $oper = $_GET["oper"];
 $num02 = $_GET["num02"];
 
 echo "Value: " . myCalculator($num01, $oper, $num02);
+?>
